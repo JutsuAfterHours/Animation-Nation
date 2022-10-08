@@ -6526,6 +6526,12 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Rolling Stone',
+    pageLink: './Art/varunPuri/index.html',
+    author: 'Varun Puri',
+    githubLink: 'https://github.com/JutsuAfterHours'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
